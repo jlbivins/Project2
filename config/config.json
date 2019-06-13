@@ -4,7 +4,6 @@
     "password": "wzghxnt66r7i1n5j",
     "database": "h9ax3054yan1w905",
     "host": "ofcmikjy9x4lroa2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-    "port": "3306",
     "dialect": "mysql"
   },
   "test": {
@@ -16,7 +15,7 @@
     "logging": false
   },
   "production": {
-    "use_env_variable": "COMMUNITYDB_URL",
+    "use_env_variable": "JAWSDB_URL",
     "dialect": "mysql"
   }
 }
