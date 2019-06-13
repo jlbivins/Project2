@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jlbivins/Project2_Prototype.git"
+    "url": "git+https://github.com/jlbivins/Project2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jlbivins/Project2_Prototype/issues"
+    "url": "https://github.com/jlbivins/Project2/issues"
   },
-  "homepage": "https://github.com/jlbivins/Project2_Prototype#readme"
+  "homepage": "https://github.com/jlbivins/Project2#readme"
 }
